@@ -1,13 +1,13 @@
 # 🛡️ Hello, I'm Victor Garcia   
-**Cybersecurity Professional | DevSecOps Enthusiast**
+**Cybersecurity Specialist | Purple Team (Red & Blue) | DevSecOps & AppSec**
 
-Welcome to my digital fortress! I specialize in network protection, DevSecOps pipelines, and offensive security. I use my trusted **Fedora Linux** environment to build, secure, and test infrastructure.
+Welcome to my digital fortress! I act on both sides of the cybersecurity spectrum, ensuring robust defense (Blue Team) and proactive offensive testing (Red Team). My expertise spans across local networks, cloud environments, and application security. I use my trusted **Fedora Linux** environment to build, secure, and test infrastructure from the ground up.
 
 ### 🕵️‍♂️ About Me
-- 🔭 I’m currently working on hardening network architectures and containerized pentesting.
-- 🌱 I’m currently learning deeper DevSecOps integrations and advanced exploit development.
+- 🔭 I’m currently leading the complete security lifecycle of a project—from initial threat modeling and documentation, through secure network/cloud architecture and code security (AppSec), all the way to continuous monitoring and post-deployment maintenance.
+- 🌱 I’m constantly exploring new frontiers in Cloud Security, advanced DevSecOps integrations, and exploit development.
 - ⚙️ Daily Driver: **Fedora 44 KDE**
-- 💬 Ask me about: Firewalls, Antivirus evasion, Linux OS internals, and Network Security.
+- 💬 Ask me about: Red/Blue Team operations, AppSec, Cloud Security, Linux OS internals, and DevSecOps pipelines.
 - 📫 How to reach me: gitvictorgarcia@gmail.com or Victor Garcia
 
 ### 🧰 My Arsenal (Tech Stack)
