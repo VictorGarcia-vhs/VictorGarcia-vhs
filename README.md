@@ -6,7 +6,7 @@ Welcome to my digital fortress! I specialize in network protection, DevSecOps pi
 ### 🕵️‍♂️ About Me
 - 🔭 I’m currently working on hardening network architectures and containerized pentesting.
 - 🌱 I’m currently learning deeper DevSecOps integrations and advanced exploit development.
-- ⚙️ Daily Driver: **Fedora 43 KDE**
+- ⚙️ Daily Driver: **Fedora 44 KDE**
 - 💬 Ask me about: Firewalls, Antivirus evasion, Linux OS internals, and Network Security.
 - 📫 How to reach me: gitvictorgarcia@gmail.com or Victor Garcia
 
